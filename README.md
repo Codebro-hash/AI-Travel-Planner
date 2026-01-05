@@ -21,7 +21,7 @@ An intelligent travel planning engine developed by **Harshal**, built with **Lan
 
 ## ⚙️ Installation & Usage
 
-1. **Clone the Repo:**
+1. Clone the Repo:
    ```bash
    git clone [https://github.com/Codebro-hash/AI-Travel-Planner.git](https://github.com/Codebro-hash/AI-Travel-Planner.git)
 

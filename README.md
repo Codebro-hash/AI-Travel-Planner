@@ -25,26 +25,25 @@ An intelligent travel planning engine developed by **Harshal**, built with **Lan
    ```bash
    git clone [https://github.com/Codebro-hash/AI-Travel-Planner.git](https://github.com/Codebro-hash/AI-Travel-Planner.git)
 
-
 2. Install Requirements:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Set Up API Key:
-Get your key from Google AI Studio.
-In Google Colab, add it to the Secrets (🔑 icon) with the name GEMINI_API_KEY.
+   Get your key from Google AI Studio.
+   In Google Colab, add it to the Secrets (🔑 icon) with the name GEMINI_API_KEY.
 
 4. Run the Notebook:
- Open AI_Travel_Planner.ipynb in Colab and run all cells.
+   Open AI_Travel_Planner.ipynb in Colab and run all cells.
 
 🛡️ Security & Best Practices (.gitignore)
-To maintain a professional and secure repository, this project includes a .gitignore file that prevents the following from being uploaded:
-Sensitive Data: Environment variables and API keys (via .env).
-Junk Files: Temporary system files and Python cache (__pycache__).
-Notebook Checkpoints: Local Jupyter/Colab saving points.
+   To maintain a professional and secure repository, this project includes a .gitignore file that prevents the following from being uploaded:
+   Sensitive Data: Environment variables and API keys (via .env).
+   Junk Files: Temporary system files and Python cache (__pycache__).
+   Notebook Checkpoints: Local Jupyter/Colab saving points.
 
 📄 License
-This project is open-source and available under the MIT License.
-Permission: You are free to use, copy, and modify this software.
-Requirement: The above copyright notice must be included in all copies.
-Disclaimer: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+   This project is open-source and available under the MIT License.
+   Permission: You are free to use, copy, and modify this software.
+   Requirement: The above copyright notice must be included in all copies.
+   Disclaimer: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

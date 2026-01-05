@@ -25,15 +25,16 @@ An intelligent travel planning engine developed by **Harshal**, built with **Lan
    ```bash
    git clone [https://github.com/Codebro-hash/AI-Travel-Planner.git](https://github.com/Codebro-hash/AI-Travel-Planner.git)
 
-2. **Install Requirements:**
+
+2. Install Requirements:
 ```bash
 pip install -r requirements.txt
 
-3. **Set Up API Key:**
+3. Set Up API Key:
 Get your key from Google AI Studio.
 In Google Colab, add it to the Secrets (🔑 icon) with the name GEMINI_API_KEY.
 
-4. **Run the Notebook:**
+4. Run the Notebook:
  Open AI_Travel_Planner.ipynb in Colab and run all cells.
 
 🛡️ Security & Best Practices (.gitignore)
